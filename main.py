@@ -8,7 +8,7 @@ df = d_rosenbrock
 # f = styblinski_tang
 # df = d_styblinski_tang
 
-# Setting and initialization
+# Setting and Initialization
 xint, yint = -0.1, 0.2
 lr = 0.001
 epoch = 2000
