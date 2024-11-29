@@ -1,4 +1,4 @@
-# SGD methods
+# SGD algorithms
 In this project, SGD methods built from scratch are tested in the two common 2D test functions (Rosenbrock and Styblinski–Tang)
 
 Rosenbrock function:
